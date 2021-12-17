@@ -1,0 +1,35 @@
+﻿body {
+}
+
+.headerCssClass {
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.contentCssClass {
+    background-color: lightslategray;
+    color: black;
+    border: 1px dotted black;
+    padding: 4px;
+}
+
+.headerSelectedCss {
+    background-color: darkslategray;
+    color: white;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.auto-style1 {
+    text-align: center;
+}
+
+.auto-style0 {
+    width: 288px;
+}
+
+.auto-style2 {
+    width: 524px;
+}
